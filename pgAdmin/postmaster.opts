@@ -1,1 +1,0 @@
-/Applications/Postgres.app/Contents/Versions/14/bin/postgres "-D" "/Users/agosh/Developer/ecommerce-pern/pgAdmin" "-p" "5432"
